@@ -4,8 +4,6 @@
 
 Built for **Hack-a-Matics** (Pentagram, Mathematical Society of BMSCE, with BMSCE IEEE Computer Society).
 
-<!-- TODO: paste your deployed website link on the line below once it's live -->
-🔗 **Live Demo:** [ADD YOUR LIVE LINK HERE]
 
 <!-- TODO: once you have a real license file, keep this line as-is; it already points to LICENSE -->
 📄 **License:** [MIT](./LICENSE)
