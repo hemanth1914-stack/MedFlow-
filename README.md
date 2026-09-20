@@ -91,7 +91,6 @@ that a smarter rule beats a plain first-come-first-served line.
 
 ---
 
-<<<<<<< HEAD
 ## Main Features
 
 - **AI-Powered Triage** — type a patient's condition in plain English, and
@@ -147,7 +146,7 @@ that a smarter rule beats a plain first-come-first-served line.
 
 ---
 
-=======
+
 ## Mathematical Foundations
 
 Since Hack-a-Matics is a mathematics-focused hackathon, here's the actual
@@ -290,7 +289,7 @@ arrival, fixed-server system.
 
 ---
 
->>>>>>> 641f7583a1040e7d9f37090c1c42b200e9e928f7
+
 ## Running It Yourself
 
 ```bash
